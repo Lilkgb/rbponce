@@ -7,3 +7,9 @@ body {
   background-image: url("../img/rbponce.jpg");
   background-size: cover;
 }
+#troll img{
+  width: 100%;
+}
+#troll {
+  display: none;
+}
